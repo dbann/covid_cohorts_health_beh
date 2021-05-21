@@ -5,4 +5,4 @@ David Bann, Aase Villadsen, Jane Maddock, Alun Hughes, George B. Ploubidis, Rich
 
 Syntax created by David Bann, audited and amended by Aase Villadsen and Jane Maddock 
 
-This syntax creates the main table and figures in the above paper
+This syntax creates the main table and figures in the above paper; researchers may find it useful in other applications (eg, to automate creation of Table 1, overlapping histograms, and forestplots)
